@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct_definition", "struct_definition\struct_definition.vcxproj", "{63F28144-8B75-40FD-8B0E-4BDD64086824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F28144-8B75-40FD-8B0E-4BDD64086824}.Debug|x64.ActiveCfg = Debug|x64
+		{63F28144-8B75-40FD-8B0E-4BDD64086824}.Debug|x64.Build.0 = Debug|x64
+		{63F28144-8B75-40FD-8B0E-4BDD64086824}.Debug|x86.ActiveCfg = Debug|Win32
+		{63F28144-8B75-40FD-8B0E-4BDD64086824}.Debug|x86.Build.0 = Debug|Win32
+		{63F28144-8B75-40FD-8B0E-4BDD64086824}.Release|x64.ActiveCfg = Release|x64
+		{63F28144-8B75-40FD-8B0E-4BDD64086824}.Release|x64.Build.0 = Release|x64
+		{63F28144-8B75-40FD-8B0E-4BDD64086824}.Release|x86.ActiveCfg = Release|Win32
+		{63F28144-8B75-40FD-8B0E-4BDD64086824}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A60FD444-5AF2-4083-95E4-0DA876D636F7}
+	EndGlobalSection
+EndGlobal
