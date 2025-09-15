@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\CL\\advanced_function\\Advanced_function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F9164-BC92-48A0-917B-659017ACEFEF}|Advanced_function\\Advanced_function.vcxproj|E:\\develop\\CL\\advanced_function\\Advanced_function\\Advanced_function\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B49F9164-BC92-48A0-917B-659017ACEFEF}|Advanced_function\\Advanced_function.vcxproj|solutionrelative:Advanced_function\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\advanced_function\\Advanced_function\\Advanced_function\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Advanced_function\\\u6E90.cpp",
+              "ToolTip": "E:\\develop\\CL\\advanced_function\\Advanced_function\\Advanced_function\\\u6E90.cpp",
+              "RelativeToolTip": "Advanced_function\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T01:36:45.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

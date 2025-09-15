@@ -1,0 +1,16 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\helloworld",
+    "\\helloworld\\Project1",
+    "\\helloworld\\Project1\\Project1"
+  ],
+  "SelectedNode": "\\helloworld\\Project1\\Project1\\源.cpp",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\CL\\C2function\\function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0565A9E6-552E-4C9E-835B-E7EE93DCF4EE}|function\\function.vcxproj|E:\\develop\\CL\\C2function\\function\\function\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0565A9E6-552E-4C9E-835B-E7EE93DCF4EE}|function\\function.vcxproj|solutionrelative:function\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565A9E6-552E-4C9E-835B-E7EE93DCF4EE}|function\\function.vcxproj|E:\\develop\\CL\\C2function\\function\\function\\swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0565A9E6-552E-4C9E-835B-E7EE93DCF4EE}|function\\function.vcxproj|solutionrelative:function\\swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0565A9E6-552E-4C9E-835B-E7EE93DCF4EE}|function\\function.vcxproj|E:\\develop\\CL\\C2function\\function\\function\\swap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0565A9E6-552E-4C9E-835B-E7EE93DCF4EE}|function\\function.vcxproj|solutionrelative:function\\swap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "swap.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\C2function\\function\\function\\swap.cpp",
+              "RelativeDocumentMoniker": "function\\swap.cpp",
+              "ToolTip": "E:\\develop\\CL\\C2function\\function\\function\\swap.cpp*",
+              "RelativeToolTip": "function\\swap.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T06:46:26.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "swap.h",
+              "DocumentMoniker": "E:\\develop\\CL\\C2function\\function\\function\\swap.h",
+              "RelativeDocumentMoniker": "function\\swap.h",
+              "ToolTip": "E:\\develop\\CL\\C2function\\function\\function\\swap.h",
+              "RelativeToolTip": "function\\swap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-06T06:46:08.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\C2function\\function\\function\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "function\\\u6E90.cpp",
+              "ToolTip": "E:\\develop\\CL\\C2function\\function\\function\\\u6E90.cpp",
+              "RelativeToolTip": "function\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T05:56:50.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\CL\\nested_struct\\Nested_struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA61BAB-8D97-4115-ACCA-A37069E5B4C7}|Nested_struct\\Nested_struct.vcxproj|E:\\develop\\CL\\nested_struct\\Nested_struct\\Nested_struct\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BA61BAB-8D97-4115-ACCA-A37069E5B4C7}|Nested_struct\\Nested_struct.vcxproj|solutionrelative:Nested_struct\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\nested_struct\\Nested_struct\\Nested_struct\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Nested_struct\\\u6E90.cpp",
+              "ToolTip": "E:\\develop\\CL\\nested_struct\\Nested_struct\\Nested_struct\\\u6E90.cpp*",
+              "RelativeToolTip": "Nested_struct\\\u6E90.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T01:56:33.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

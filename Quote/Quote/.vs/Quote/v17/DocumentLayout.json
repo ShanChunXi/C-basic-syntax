@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\CL\\Quote\\Quote\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B89BB6-7206-4BB9-B3AB-451E457EB0EB}|Quote\\Quote.vcxproj|E:\\develop\\CL\\Quote\\Quote\\Quote\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93B89BB6-7206-4BB9-B3AB-451E457EB0EB}|Quote\\Quote.vcxproj|solutionrelative:Quote\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\Quote\\Quote\\Quote\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Quote\\\u6E90.cpp",
+              "ToolTip": "E:\\develop\\CL\\Quote\\Quote\\Quote\\\u6E90.cpp",
+              "RelativeToolTip": "Quote\\\u6E90.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-08T13:33:03.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

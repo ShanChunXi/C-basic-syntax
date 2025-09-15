@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\develop\CL\Quote\Quote\Quote\源.cpp(14,1): warning C4172: 返回局部变量的地址或临时 : a
+  Quote.vcxproj -> E:\develop\CL\Quote\Quote\x64\Debug\Quote.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\CL\\class_01\\class_cube\\Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36155EA9-A416-4BAA-98CD-142CA0180343}|Cube\\Cube.vcxproj|E:\\develop\\CL\\class_01\\class_cube\\Cube\\Cube\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36155EA9-A416-4BAA-98CD-142CA0180343}|Cube\\Cube.vcxproj|solutionrelative:Cube\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\class_01\\class_cube\\Cube\\Cube\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Cube\\\u6E90.cpp",
+              "ToolTip": "E:\\develop\\CL\\class_01\\class_cube\\Cube\\Cube\\\u6E90.cpp",
+              "RelativeToolTip": "Cube\\\u6E90.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-13T07:34:55.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

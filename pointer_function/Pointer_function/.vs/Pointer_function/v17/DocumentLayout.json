@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\CL\\pointer_function\\Pointer_function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E920502-5B84-46F2-9AAF-BEB58A29F47E}|Pointer_function\\Pointer_function.vcxproj|E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E920502-5B84-46F2-9AAF-BEB58A29F47E}|Pointer_function\\Pointer_function.vcxproj|solutionrelative:Pointer_function\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E920502-5B84-46F2-9AAF-BEB58A29F47E}|Pointer_function\\Pointer_function.vcxproj|E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\swap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E920502-5B84-46F2-9AAF-BEB58A29F47E}|Pointer_function\\Pointer_function.vcxproj|solutionrelative:Pointer_function\\swap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E920502-5B84-46F2-9AAF-BEB58A29F47E}|Pointer_function\\Pointer_function.vcxproj|E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E920502-5B84-46F2-9AAF-BEB58A29F47E}|Pointer_function\\Pointer_function.vcxproj|solutionrelative:Pointer_function\\swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "swap.h",
+              "DocumentMoniker": "E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\swap.h",
+              "RelativeDocumentMoniker": "Pointer_function\\swap.h",
+              "ToolTip": "E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\swap.h",
+              "RelativeToolTip": "Pointer_function\\swap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-07T00:16:53.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "swap.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\swap.cpp",
+              "RelativeDocumentMoniker": "Pointer_function\\swap.cpp",
+              "ToolTip": "E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\swap.cpp",
+              "RelativeToolTip": "Pointer_function\\swap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T00:16:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Pointer_function\\\u6E90.cpp",
+              "ToolTip": "E:\\develop\\CL\\pointer_function\\Pointer_function\\Pointer_function\\\u6E90.cpp",
+              "RelativeToolTip": "Pointer_function\\\u6E90.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T00:16:29.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

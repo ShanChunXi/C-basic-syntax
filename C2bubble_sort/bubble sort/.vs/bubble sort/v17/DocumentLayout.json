@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\CL\\C2bubble_sort\\bubble sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90DA74BC-8284-4ACC-A177-6D94E720B71E}|bubble sort\\bubble sort.vcxproj|E:\\develop\\CL\\C2bubble_sort\\bubble sort\\bubble sort\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90DA74BC-8284-4ACC-A177-6D94E720B71E}|bubble sort\\bubble sort.vcxproj|solutionrelative:bubble sort\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\C2bubble_sort\\bubble sort\\bubble sort\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "bubble sort\\\u6E90.cpp",
+              "ToolTip": "E:\\develop\\CL\\C2bubble_sort\\bubble sort\\bubble sort\\\u6E90.cpp",
+              "RelativeToolTip": "bubble sort\\\u6E90.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T00:34:14.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

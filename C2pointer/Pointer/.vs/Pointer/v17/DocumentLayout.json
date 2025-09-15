@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\CL\\C2pointer\\Pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44A1E941-3605-475B-BBA6-8B0552358425}|Pointer\\Pointer.vcxproj|E:\\develop\\CL\\C2pointer\\Pointer\\Pointer\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44A1E941-3605-475B-BBA6-8B0552358425}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\develop\\CL\\C2pointer\\Pointer\\Pointer\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Pointer\\\u6E90.cpp",
+              "ToolTip": "E:\\develop\\CL\\C2pointer\\Pointer\\Pointer\\\u6E90.cpp",
+              "RelativeToolTip": "Pointer\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T11:36:26.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
